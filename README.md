@@ -8,6 +8,7 @@
 
 ## 安装下载
 
+https://github.com/HLPJay/catch_imooc2/releases
 
 ## 快速使用
 
