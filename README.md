@@ -8,7 +8,9 @@
 
 ## 安装下载
 
-https://github.com/HLPJay/catch_imooc2/releases
+- 下载地址 https://github.com/HLPJay/catch_imooc2/releases
+- ’npm i hlp7777‘
+- CDN https://unpkg.com/hlp7777/release/bundle.js   这个地址自己会更新版本
 
 ## 快速使用
 
